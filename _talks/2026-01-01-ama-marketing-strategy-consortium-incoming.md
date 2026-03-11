@@ -6,5 +6,6 @@ permalink: /talks/2026-ama-marketing-strategy-consortium
 venue: "Georgia State University"
 date: 2026-01-01
 location: "GA, USA"
+published: false
 ---
 

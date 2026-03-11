@@ -6,5 +6,6 @@ permalink: /talks/2026-marketing-dynamics-conference
 venue: "EESEC"
 date: 2026-01-15
 location: "Pairs, France"
+published: false
 ---
 
