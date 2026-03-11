@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "2025 AMA Winter Academic Conference<br />AMA Winter Academic Conference; Phoenix, AZ, USA",
+    33.4484367,
+    -112.074141
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "2026 Marketing Dynamics Conference (incoming)<br />EESEC; Pairs, France",
+    45.9783698,
+    0.836648
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "2026 AMA Marketing Strategy Consortium (incoming)<br />Georgia State University; GA, USA",
+    32.3293809,
+    -83.1137366
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "2025 AMA Marketing Strategy Consortium<br />University of South Carolina; SC, USA",
+    33.6874388,
+    -80.4363743
   ]
 ];
