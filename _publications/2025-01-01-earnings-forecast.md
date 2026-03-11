@@ -1,7 +1,7 @@
 ---
 title: "Do Accounting Earnings Forecast Macroeconomic Growth? Evidence from an Earnings Structure Perspective"
 collection: publications
-category: Journal
+category: manuscripts
 # permalink: /publication/earnings-forecast-macroeconomic-growth
 date: 2017-01-01
 venue: "Scientific Decision Making"
