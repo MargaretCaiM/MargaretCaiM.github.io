@@ -32,7 +32,6 @@ Education
 Contact
 ======
 - Email: Margaret_Cai@kenan-flagler.unc.edu
-- Phone: +1 (919) 930-9551
 - LinkedIn: [www.linkedin.com/in/yimeng-margaret-cai](https://www.linkedin.com/in/yimeng-margaret-cai)
 
 For full details, please see the [CV page](/cv/).

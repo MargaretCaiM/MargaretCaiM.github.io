@@ -19,7 +19,6 @@ University of North Carolina at Chapel Hill
 
 Contact Information
 ======
-- Phone: +1 (919) 930-9551
 - Email: Margaret_Cai@kenan-flagler.unc.edu
 - Homepage: www.linkedin.com/in/yimeng-margaret-cai
 
