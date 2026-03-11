@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yimeng (Margaret) Cai"
 title_separator          : "-"
 name                     : &name "Yimeng (Margaret) Cai"
-description              : &description "Ph.D. Student in Quantitative Marketing at UNC Kenan-Flagler Business School."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yimeng (Margaret) Cai is a PhD candidate in Quantitative Marketing at UNC Kenan-Flagler Business School."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://margaretcaim.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -130,7 +130,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "W68Nl7CEAukYrxCIsNygxr0PADMYf7DDhTfiJ72JmK0"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
