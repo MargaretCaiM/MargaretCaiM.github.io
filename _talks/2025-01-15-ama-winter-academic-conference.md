@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/2025-ama-winter-academic-conference
 venue: "AMA Winter Academic Conference"
-date: 2025-01-15
+date: 2025-02-15
 location: "Phoenix, AZ, USA"
 ---
 
