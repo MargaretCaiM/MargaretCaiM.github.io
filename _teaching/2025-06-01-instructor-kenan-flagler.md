@@ -8,5 +8,5 @@ date: 2025-06-01
 location: "Chapel Hill, NC, USA"
 ---
 
+Instructor, *BUSI406: Principles of Marketing (Undergraduate)*, 2025  
 Summer 2025
-
