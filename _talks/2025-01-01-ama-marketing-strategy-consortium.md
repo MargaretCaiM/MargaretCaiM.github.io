@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/2025-ama-marketing-strategy-consortium
 venue: "University of South Carolina"
-date: 2025-01-01
+date: 2025-05-18
 location: "SC, USA"
 ---
 
