@@ -5,8 +5,8 @@ permalink: /beyond-research/
 author_profile: true
 ---
 
-When she steps away from her data, Margaret heads for a piano (Grade 6, Central Conservatory of Music) or a microphone. She once made it through the auditions for *The Voice of China*, which she still counts as one of her braver life choices. She is also always up for a game of badminton.
+When I step away from my data, I head for a piano (Grade 6, Central Conservatory of Music) or a microphone. I once made it through the auditions for *The Voice of China*, which I still count as one of my braver life choices. I am also always up for a game of badminton.
 
-<!-- Photos coming soon — drop image files into /images/ and add them here, e.g.:
-<img src="/images/your-photo.jpg" alt="Margaret playing piano" style="max-width:100%;">
+<!-- Photos coming soon. Drop image files into /images/ and add them here, e.g.:
+<img src="/images/your-photo.jpg" alt="Playing piano" style="max-width:100%;">
 -->
