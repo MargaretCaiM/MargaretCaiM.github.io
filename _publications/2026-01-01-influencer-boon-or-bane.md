@@ -4,10 +4,8 @@ collection: publications
 category: working
 permalink: /publication/influencer-boon-or-bane
 date: 2026-01-01
-venue: "Under review at Journal of Marketing (Job Market Paper)"
-citation: "Yimeng Cai and Katrijn Gielens. <i>Influencer Marketing: Boon or Bane? Exploring Brand ROI.</i> Under review at Journal of Marketing. [Job Market Paper]"
+venue: "Job Market Paper"
+published: false
 ---
 
-**Job Market Paper** — Under review at *Journal of Marketing*
-
-Coauthored with Katrijn Gielens.
+Job Market Paper. Coauthored with Katrijn Gielens.

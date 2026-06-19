@@ -5,7 +5,6 @@ category: prephd
 permalink: /publication/earnings-forecast-macroeconomic-growth
 date: 2017-08-01
 venue: "Scientific Decision Making (科学决策)"
-citation: "X Qing, Y Cai, B Zhang. Do Accounting Earnings Forecast Macroeconomic Growth? Evidence from an Earnings Structure Perspective (会计盈余能预测宏观经济增长吗？——盈余结构分析视角). Scientific Decision Making (科学决策), 2017 (8), 21-50."
 ---
 
 Published in *Scientific Decision Making* (科学决策), a CSSCI core (CSSCI 核心) journal. Using nearly a decade of accounting data on China's A-share listed firms collected from the Wind and CSMAR databases, cleaned and processed in Stata, the paper builds an empirical model relating earnings structure to GDP forecasting, contributing empirical evidence on the link between accounting earnings and macroeconomic growth.
