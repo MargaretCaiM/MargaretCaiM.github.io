@@ -1,7 +1,7 @@
 ---
 title: "The Visual Formula: Unlocking the Impact of Content Composition"
 collection: publications
-category: working
+category: wip
 permalink: /publication/visual-formula
 date: 2026-01-04
 venue: "Work in Progress — Analysis in progress"
