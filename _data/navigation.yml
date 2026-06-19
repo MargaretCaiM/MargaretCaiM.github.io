@@ -17,6 +17,6 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "CV"
-    url: /files/Yimeng_Cai_CV.pdf
+  # - title: "CV"          # temporarily hidden until after defense
+  #   url: /files/Yimeng_Cai_CV.pdf
     

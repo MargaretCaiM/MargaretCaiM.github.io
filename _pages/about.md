@@ -41,5 +41,3 @@ Contact
 ======
 - Email: Margaret_Cai@kenan-flagler.unc.edu
 - LinkedIn: [www.linkedin.com/in/yimeng-margaret-cai](https://www.linkedin.com/in/yimeng-margaret-cai)
-
-For full details, please see my [CV (PDF)](/files/Yimeng_Cai_CV.pdf).
