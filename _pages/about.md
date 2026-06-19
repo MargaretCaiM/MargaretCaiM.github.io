@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Marketing PhD Candidate (Job Market 2026-2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School). I have a strong passion for generating data-driven and decision-making insights.
+I am a **Marketing PhD Candidate (Job Market 2026-2027)** at the [University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu/) (Kenan-Flagler Business School). I have a strong passion for generating data-driven and decision-making insights.
 
 My research focuses on applying advanced quantitative methods and machine learning to marketing problems, particularly in social media, influencer marketing, e-commerce, and retailing. With a background in business consulting at [Deloitte](https://www2.deloitte.com/), I aim to bridge the gap between research and practice, leveraging innovative methods to solve real-world business challenges. I am motivated by the potential to make a tangible impact in this technology-driven world.
 

@@ -6,5 +6,3 @@ permalink: /publication/shelf-to-scroll
 date: 2026-01-02
 venue: "Data collected, analysis in progress. Presented at the EMAC Conference (2026)."
 ---
-
-With Katrijn Gielens.

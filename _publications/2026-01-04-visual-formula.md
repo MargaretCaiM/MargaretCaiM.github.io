@@ -6,5 +6,3 @@ permalink: /publication/visual-formula
 date: 2026-01-04
 venue: "Analysis in progress."
 ---
-
-With Katrijn Gielens.
