@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Yimeng (Margaret) Cai is a **Marketing PhD Candidate (Job Market 2026–2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School). She is a data person at heart who happens to love marketing — give her a messy dataset and a real business puzzle, and she is genuinely having a good day.
+Yimeng (Margaret) Cai is a **Marketing PhD Candidate (Job Market 2026–2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School). She is a data person at heart who happens to love marketing. Give her a messy dataset and a real business puzzle, and she is genuinely having a good day.
 
-Her research uses quantitative methods, machine learning, and AI-driven content analysis to make sense of how brands, creators, and consumers meet online — across social media, influencer marketing, the creator economy, and retailing. After years turning data into decisions as a consultant and analyst at [Deloitte](https://www2.deloitte.com/), she came to academia on a simple hunch: the most interesting questions are the ones that matter to real firms *and* hold up to rigorous evidence. She likes building bridges between the two.
+Her research uses quantitative methods, machine learning, and AI-driven content analysis to study how brands, creators, and consumers meet online, across social media, influencer marketing, the creator economy, and retailing. She spent several years turning data into decisions as a consultant and analyst at [Deloitte](https://www2.deloitte.com/) before coming to academia. What drew her here was a simple belief: the best questions are the ones that matter to real firms and also hold up to rigorous evidence. She enjoys building bridges between the two.
 
-She is lucky to be advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
+She is advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
 
 Research Interests
 ======
