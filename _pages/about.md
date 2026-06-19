@@ -34,10 +34,6 @@ Education
 - M.S. in Business Analytics (Customer Analytics), Washington University in St. Louis (2021)
 - B.B.A. in Business Administration (minor in Accounting), Capital University of Economics and Business (2018)
 
-Beyond Research
-======
-When she steps away from her data, Margaret heads for a piano (Grade 6, Central Conservatory of Music) or a microphone — she once made it through the auditions for *The Voice of China*, which she still counts as one of her braver life choices. She is also always up for a game of badminton. These are the things that keep her curious, a little competitive, and happily grounded.
-
 Contact
 ======
 - Email: Margaret_Cai@kenan-flagler.unc.edu
