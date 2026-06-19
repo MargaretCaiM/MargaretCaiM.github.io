@@ -170,6 +170,8 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 
   @include breakpoint($large) {
     display: block;
@@ -304,7 +306,9 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   a {
