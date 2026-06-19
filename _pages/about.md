@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Yimeng (Margaret) Cai is a **Marketing PhD Candidate (Job Market 2026–2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School) and a quantitative researcher who brings a data-analytics background to bear on real-world marketing problems.
+Yimeng (Margaret) Cai is a **Marketing PhD Candidate (Job Market 2026–2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School). She is a data person at heart who happens to love marketing — give her a messy dataset and a real business puzzle, and she is genuinely having a good day.
 
-Her research applies advanced quantitative methods, machine learning, and AI-driven content analysis to questions in social media, influencer marketing, the creator economy, and retailing. Drawing on her prior experience in data analytics and business consulting at [Deloitte](https://www2.deloitte.com/), she aims to bridge the gap between research and practice and to generate insights that help firms make better decisions in a technology-driven marketplace.
+Her research uses quantitative methods, machine learning, and AI-driven content analysis to make sense of how brands, creators, and consumers meet online — across social media, influencer marketing, the creator economy, and retailing. After years turning data into decisions as a consultant and analyst at [Deloitte](https://www2.deloitte.com/), she came to academia on a simple hunch: the most interesting questions are the ones that matter to real firms *and* hold up to rigorous evidence. She likes building bridges between the two.
 
-She is advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
+She is lucky to be advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
 
 Research Interests
 ======
+- Branding *(dissertation focus)*
 - Quantitative Marketing
 - Digital and Social Media Marketing
 - Influencer Marketing and Creator Economy
@@ -35,7 +36,7 @@ Education
 
 Beyond Research
 ======
-Outside of research, Margaret is a longtime pianist (Grade 6, Central Conservatory of Music) and enjoys singing — she was an audition qualifier for *The Voice of China*. She also plays badminton whenever she gets the chance. These pursuits keep her curious, disciplined, and grounded.
+When she steps away from her data, Margaret heads for a piano (Grade 6, Central Conservatory of Music) or a microphone — she once made it through the auditions for *The Voice of China*, which she still counts as one of her braver life choices. She is also always up for a game of badminton. These are the things that keep her curious, a little competitive, and happily grounded.
 
 Contact
 ======
