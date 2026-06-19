@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Yimeng (Margaret) Cai <br> 蔡祎萌"
+title: "Yimeng (Margaret) Cai 蔡祎萌"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a **Marketing PhD Candidate (Job Market 2026-2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School). I have a strong passion for generating data-driven and decision-making insights.
+Yimeng (Margaret) Cai is a **Marketing PhD Candidate (Job Market 2026–2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School) and a quantitative researcher who brings a data-analytics background to bear on real-world marketing problems.
 
-My research focuses on applying advanced quantitative methods and machine learning to marketing problems, particularly in social media, influencer marketing, e-commerce, and retailing. With a background in business consulting at [Deloitte](https://www2.deloitte.com/), I aim to bridge the gap between research and practice, leveraging innovative methods to solve real-world business challenges. I am motivated by the potential to make a tangible impact in this technology-driven world.
+Her research applies advanced quantitative methods, machine learning, and AI-driven content analysis to questions in social media, influencer marketing, the creator economy, and retailing. Drawing on her prior experience in data analytics and business consulting at [Deloitte](https://www2.deloitte.com/), she aims to bridge the gap between research and practice and to generate insights that help firms make better decisions in a technology-driven marketplace.
 
-I am advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
+She is advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
 
 Research Interests
 ======
@@ -35,7 +35,7 @@ Education
 
 Beyond Research
 ======
-Outside of research, I am a longtime pianist (Grade 6, Central Conservatory of Music) and enjoy singing — I was an audition qualifier for *The Voice of China*. I also play badminton whenever I get the chance. These pursuits keep me curious, disciplined, and grounded.
+Outside of research, Margaret is a longtime pianist (Grade 6, Central Conservatory of Music) and enjoys singing — she was an audition qualifier for *The Voice of China*. She also plays badminton whenever she gets the chance. These pursuits keep her curious, disciplined, and grounded.
 
 Contact
 ======
