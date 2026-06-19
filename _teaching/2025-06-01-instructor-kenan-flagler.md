@@ -9,4 +9,5 @@ location: "Chapel Hill, NC, USA"
 ---
 
 Instructor, *BUSI406: Principles of Marketing (Undergraduate)*, 2025  
-Summer 2025
+Summer 2025  
+Teaching evaluations: median 5.0/5.0
