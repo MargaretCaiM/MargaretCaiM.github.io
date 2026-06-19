@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Yimeng (Margaret) Cai is a **Marketing PhD Candidate (Job Market 2026–2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School). She is a data person at heart who happens to love marketing. Give her a messy dataset and a real business puzzle, and she is genuinely having a good day.
+I am a **Marketing PhD Candidate (Job Market 2026-2027)** at the University of North Carolina at Chapel Hill (Kenan-Flagler Business School). I have a strong passion for generating data-driven and decision-making insights.
 
-Her research uses quantitative methods, machine learning, and AI-driven content analysis to study how brands, creators, and consumers meet online, across social media, influencer marketing, the creator economy, and retailing. She spent several years turning data into decisions as a consultant and analyst at [Deloitte](https://www2.deloitte.com/) before coming to academia. What drew her here was a simple belief: the best questions are the ones that matter to real firms and also hold up to rigorous evidence. She enjoys building bridges between the two.
+My research focuses on applying advanced quantitative methods and machine learning to marketing problems, particularly in social media, influencer marketing, e-commerce, and retailing. With a background in business consulting at [Deloitte](https://www2.deloitte.com/), I aim to bridge the gap between research and practice, leveraging innovative methods to solve real-world business challenges. I am motivated by the potential to make a tangible impact in this technology-driven world.
 
-She is advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
+I am advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b196a222/) (Tilburg University) and co-advised by [Jan-Benedict E.M. Steenkamp](https://www.jan-benedict-steenkamp.com/) (UNC Kenan-Flagler).
 
 Research Interests
 ======
