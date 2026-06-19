@@ -33,8 +33,3 @@ Education
 - Ph.D. in Marketing, Kenan-Flagler Business School, UNC at Chapel Hill (expected 2027)
 - M.S. in Business Analytics (Customer Analytics), Washington University in St. Louis (2021)
 - B.B.A. in Business Administration (minor in Accounting), Capital University of Economics and Business (2018)
-
-Contact
-======
-- Email: Margaret_Cai@kenan-flagler.unc.edu
-- LinkedIn: [www.linkedin.com/in/yimeng-margaret-cai](https://www.linkedin.com/in/yimeng-margaret-cai)
