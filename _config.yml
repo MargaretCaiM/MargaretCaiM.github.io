@@ -88,6 +88,8 @@ publication_category:
     title: 'Working Papers'
   wip:
     title: 'Work in Progress'
+  otherreview:
+    title: 'Other Under-Review Work'
   prephd:
     title: 'Pre-PhD Publications'
 
