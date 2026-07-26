@@ -13,6 +13,7 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
+  {% assign pub_counter = 0 %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -23,7 +24,8 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% assign pub_counter = pub_counter | plus: 1 %}
+      {% include archive-single.html pub_number=pub_counter %}
     {% endfor %}
   {% endfor %}
 {% else %}

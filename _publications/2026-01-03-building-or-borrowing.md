@@ -3,6 +3,6 @@ title: "Building or Borrowing the Audiences? How Review Quality Decides Whether 
 collection: publications
 category: wip
 permalink: /publication/building-or-borrowing
-date: 2026-01-03
+date: 2026-01-04
 venue: "Analysis in progress. Presented at the AMA Marketing Strategy Consortium (2026)."
 ---
