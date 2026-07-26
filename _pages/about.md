@@ -15,21 +15,19 @@ I am advised by [Katrijn Gielens](https://www.linkedin.com/in/katrijn-gielens-b1
 
 Research Interests
 ======
-- Branding *(dissertation focus)*
-- Quantitative Marketing
-- Digital and Social Media Marketing
-- Influencer Marketing and Creator Economy
+- Branding amid Digital Evolution *(dissertation focus)*
+- Influencer Marketing & Creator Economy
+- Social Media Marketing
 - Retailing
 
 Methods
 ======
-- Econometric Modeling
 - Causal Inference
-- Machine Learning
-- AI-Driven Content Analysis
+- Empirical Modeling (Dynamic Models)
+- Machine Learning & LLMs (Multimodal Analysis)
 
 Education
 ======
 - Ph.D. in Marketing, Kenan-Flagler Business School, UNC at Chapel Hill (expected 2027)
 - M.S. in Business Analytics (Customer Analytics), Washington University in St. Louis (2021)
-- B.B.A. in Business Administration (minor in Accounting), Capital University of Economics and Business (2018)
+- B.S. in Business Administration (Top 1%; minor in Accounting), Capital University of Economics and Business (2018)
