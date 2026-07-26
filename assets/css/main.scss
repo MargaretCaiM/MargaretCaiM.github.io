@@ -41,3 +41,46 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ==========================================================================
+   Custom typography refinements ("A1 light"): lighter weights, airier
+   spacing, softer rules. Colors stay on theme variables (dark mode safe).
+   ========================================================================== */
+
+body {
+  font-weight: 300;
+}
+
+#main {
+  line-height: 1.65;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 500;
+}
+
+.page__title {
+  font-weight: 500;
+}
+
+.page__content {
+  h1, h2 {
+    border-bottom-width: 1px;
+  }
+}
+
+.archive__subtitle,
+.page__content h2 {
+  font-weight: 500;
+}
+
+.archive__item-title {
+  font-weight: 500;
+}
+
+.sidebar .author__name {
+  font-weight: 500;
+}
