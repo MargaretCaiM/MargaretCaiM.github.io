@@ -84,3 +84,8 @@ h1, h2, h3, h4 {
 .sidebar .author__name {
   font-weight: 500;
 }
+
+/* Larger meta/excerpt lines on Talks & Teaching entries (was 0.75em, hard to read) */
+.archive__item-excerpt {
+  font-size: 0.875em;
+}
